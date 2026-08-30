@@ -1,0 +1,10 @@
+# Este repositorio es PUBLICO. Aqui solo entra la version reducida
+# (identificacion de tienda, semaforo y venta). Red de seguridad por si
+# alguien copia por error un fichero con la cuenta de explotacion dentro.
+datos.js
+datos-publico.js
+index-src.html
+index-src-publico.html
+*.xlsx
+*.xlsm
+*.ps1
